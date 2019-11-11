@@ -1,4 +1,3 @@
 # ansible-deploy-app-sample
 
-Once
-por el peru
+Dia Domingo 10 Nov
